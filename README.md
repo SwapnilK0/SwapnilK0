@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Kale</h1>
 <h3 align="center">👋 Computer Engineering student | AI enthusiast | Google DSC member | Passionate about tech for positive change | Web dev | Data science | Java | Let's build something awesome together! 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilk0&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilk0" /> </p>
+
 
 - 🌱 I’m currently learning **Ai model training and integration in web development**
 
