@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Swapnil Kale</h1>
 <h3 align="center">👋 Computer Engineering student | AI enthusiast | Google DSC member | Passionate about tech for positive change | Web dev | Data science | Java | Let's build something awesome together! 🚀</h3>
++
 - 🔭 I’m currently working on **Chat Bot**
 - 🌱 I’m currently learning **Ai model training and integration in web development**
 - 💬 Ask me about **Django, FastAPI, Java, AI/ML**
